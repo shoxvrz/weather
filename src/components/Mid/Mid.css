@@ -8,6 +8,10 @@
   flex-direction: column;
   gap: 30px;
 }
+.mid__info .icon svg {
+  font-size: 200px;
+  color: #fff;
+}
 .mid__info h1 {
   font-size: 50px;
   color: #fff;
