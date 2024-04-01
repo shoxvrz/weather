@@ -1,0 +1,36 @@
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    &__input{
+        background-color: transparent;
+        width: 100%;
+        border: 1px solid #fff;
+        border-radius: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5px 15px;
+        color: #fff;
+
+
+
+        & input{
+            color: #fff;
+            background: transparent;
+            width: 100%;
+            font-size: 20px;
+            outline: none;
+            border: none;
+        }
+
+        & input::placeholder{
+            color: #fff;
+        }
+        & .iconSearch{
+            font-size: 30px;
+        }
+    }
+
+}

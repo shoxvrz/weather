@@ -1,0 +1,12 @@
+.app {
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: rgb(9, 9, 121);
+  background: linear-gradient(
+    0deg,
+    rgba(9, 9, 121, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}

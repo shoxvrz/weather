@@ -1,0 +1,22 @@
+.mid {
+  padding: 10px 20px;
+}
+.mid__info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.mid__info h1 {
+  font-size: 50px;
+  color: #fff;
+}
+.mid__info .iconSun {
+  color: #fff;
+  font-size: 120px;
+}
+.mid__info h2 {
+  font-size: 45px;
+  color: #fff;
+}/*# sourceMappingURL=Mid.css.map */

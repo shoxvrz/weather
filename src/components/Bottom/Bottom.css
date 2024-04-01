@@ -1,0 +1,41 @@
+.bottom {
+  padding: 10px 20px;
+  color: #fff;
+}
+.bottom__info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bottom__info-humidity {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.bottom__info-humidity p {
+  font-size: 15px;
+  font-weight: 700;
+}
+.bottom__info-humidity .iconWater {
+  font-size: 40px;
+}
+.bottom__info-humidity h1 {
+  font-size: 25px;
+}
+.bottom__info-wind {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.bottom__info-wind p {
+  font-size: 15px;
+  font-weight: 700;
+}
+.bottom__info-wind h1 {
+  font-size: 25px;
+}
+.bottom__info-wind .iconWind {
+  font-size: 40px;
+}/*# sourceMappingURL=Bottom.css.map */
